@@ -1,0 +1,13 @@
+# Node
+node_modules/
+build/
+
+# Java
+target/
+*.log
+
+# IDE
+.metadata/
+.settings/
+*.project
+*.classpath
